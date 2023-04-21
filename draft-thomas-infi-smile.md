@@ -1,5 +1,6 @@
 ---
-title: "SMILE😀"
+title: "SMILE😀 (Six Marked Initial Letters or Explanatory Smileys)"
+abbrev: "SMILE😀"
 category: info
 
 docname: draft-thomas-infi-smile-latest
